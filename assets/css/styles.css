@@ -450,7 +450,7 @@ button:not(:disabled) {
   content: "\2014\00A0";
 }
 .img-prod {
-  border-radius: 50px;
+  border-radius: 65px;
 }
 .img-fluid {
   max-width: 100%;
